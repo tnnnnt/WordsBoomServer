@@ -1,0 +1,2 @@
+# WordsBoomServer
+我的毕业设计：基于PyQt5与Web的背单词软件单词弹弹弹服务端
